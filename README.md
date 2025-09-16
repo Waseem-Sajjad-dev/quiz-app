@@ -46,9 +46,8 @@ quiz-app/
 
 ## 🌐 Live Demo
 You can view the live Quiz App here:  
-[https://your-username.github.io/quiz-app/](https://waseem-sajjad-dev.github.io/quiz-app/)
+(https://waseem-sajjad-dev.github.io/quiz-app/)
 
-> Replace `your-username` with your GitHub username.
 
 ---
 
