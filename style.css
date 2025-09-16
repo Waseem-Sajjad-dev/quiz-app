@@ -51,7 +51,7 @@ ul#options li.wrong {
   color: white;
 }
 
-button#next-btn {
+button {
   margin-top: 15px;
   padding: 10px 20px;
   font-size: 16px;
@@ -62,7 +62,7 @@ button#next-btn {
   color: white;
 }
 
-button#next-btn:hover {
+button:hover {
   background: #1976d2;
 }
 
@@ -74,5 +74,4 @@ button#next-btn:hover {
   font-size: 22px;
   margin-top: 20px;
   font-weight: bold;
-  }
-  
+}
